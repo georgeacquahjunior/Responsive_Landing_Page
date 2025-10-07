@@ -126,3 +126,38 @@ button{
     opacity: calc(30%);
 }
 
+.client-section{
+    background: #fff;
+    padding-top: 27.84px;
+}
+
+.client-section-header{
+    font-weight: 600;
+    font-size: 25.06px;
+    color: #4d4d4d;
+}
+
+.client-section-body{
+    color: #717171;
+    font-size: 11.14px;
+    margin-top: 5.57px;
+}
+
+.client-section-header,
+.client-section-body{
+    text-align: center;
+}
+
+.client-section-image{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 11.14px;
+    margin-left: 100.23px;
+    margin-right: 100.23px;
+    padding: 17.4px 0;
+}
+
+.client-section-image li{
+    list-style: none;
+}
+
