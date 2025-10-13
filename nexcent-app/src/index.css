@@ -1,0 +1,29 @@
+:root{
+  --primary-color-white: #fff;
+  --primary-color-ash: #f5f7fa;
+  --secondary-color-green: #4caf4f;
+
+  --primary-font-color: #18191f;
+  --body-font-color: #fff;
+  }
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Inter';
+}
+
+h3{
+    font-weight: 600;
+    font-size: 25.06px;
+    color: #4d4d4d;
+}
+
+p{
+    color: #717171;
+    font-size: 11.14px;
+    margin-top: 5.57px;
+}

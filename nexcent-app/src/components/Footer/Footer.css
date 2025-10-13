@@ -1,0 +1,88 @@
+.footer-1{
+    background: #f5f7fa;
+}
+
+.footer-1 h2{
+    font-size: 44.55px;
+    font-weight: 600;
+    text-align: center;
+}
+
+
+.demo-btn{
+    background: #4caf4f;
+    color: #fff;
+    border-radius: 2.78px;
+    margin: 22.75px 0;
+}
+
+.footer-2{
+    display: flex;
+    color: #fff;
+    background: #263238;
+    padding: 44.55px 114.85px;
+    justify-content: space-between;
+}
+
+.footer-company,
+.footer-support{
+    width: 111.37px;
+}
+
+.footer-logo-socials{
+    display: flex;
+    flex-direction: column;
+    gap: 27.84px;
+}
+
+.footer-logo-text p{
+    color: #fff;
+    font-weight: 400;
+    font-size: 10px;
+}
+
+.footer-socials{
+    display: flex;
+}
+
+.footer-socials ul{
+    display: flex;
+    list-style: none;
+    gap: 11.14px;
+}
+
+.footer-group-links{
+    display: flex;
+    gap: 40.88px;
+}
+
+.footer-group-links ul{
+    list-style: none;
+}
+
+.footer-group-links h4{
+    margin-bottom: 16.71px;
+}
+
+.footer-group-links ul li{
+    font-size: 10.74px;
+    margin-bottom: 10px;
+    color: #f5f7fa;
+    font-weight: 400;
+}
+
+.footer-uptodate input{
+    background: #5252527a;
+    border: none;
+    padding: 8px 0 8px 4px;
+    border-radius: 5.57px;
+    color: #fff;
+}
+
+.footer-uptodate img{
+    position: relative;
+    z-index: 10;
+    right: 25px;
+    top: 3px;
+    cursor: pointer;
+}

@@ -1,0 +1,48 @@
+nav{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   align-items: center;
+   height: 84px;
+   background: var(--primary-color-white);
+   padding: 0 100.23px;
+}
+
+nav ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 16.71px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: var(--primary-font-color);
+    font-weight: 500;
+    font-size: 16px;
+}
+
+button{
+    cursor: pointer;
+}
+
+.login,
+.signup,
+.unseen-btn,
+.demo-btn{
+    border: none;
+    text-align: center;
+    padding: 10px 20px;
+    font-weight: 500;
+}
+
+
+.register{
+    background-color: var(--secondary-color-green);
+    color: var(--primary-color-white);
+    border-radius: 2.78px;
+    border: none;
+    padding: 9.75px 22.27px;
+}
